@@ -15,17 +15,15 @@
                     <div class="table-responsive">
                       <table class="table table-striped table-hover" id="tableExport" style="width:100%;">
                        <a href="areainsert.php">Add record</a>
-					   <thead>
+			<thead>
                           <tr>
                             <th>Area id</th>
                             <th>Name</th>
-							<th>Delete</th>
-							<th>Update</th>
-						
-                          </tr>
+			    <th>Delete</th>
+			    <th>Update</th>
+			 </tr>
                         </thead>
-						
-                        <tbody>
+			 <tbody>
                           <?php
 						   require_once('../config/connection.php');
 						  $sql="select * from  area";
