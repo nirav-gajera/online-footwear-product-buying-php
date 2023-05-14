@@ -16,15 +16,15 @@
                       <input type="text" name="Brand_name" class="form-control">
                     </div>
 					
-					<div class="form-group">
+		<div class="form-group">
                         <label for="colorpicker-rgb" class="col-sm-4 control-label">Brand Logo</label>
                         <div class="col-sm-8">
 						
-						<span class="btn btn-green fileinput-button">
+			<span class="btn btn-green fileinput-button">
                               <i class="fa fa-plus"></i>
                               <span> Select Image</span>
                               <input type="file" name="image">
-                            </span>
+                           </span>
                    
                   <div class="card-footer text-right">
                     <button class="btn btn-primary mr-1" type="submit">Submit</button>
@@ -37,7 +37,7 @@
               </div>
             </form>
             </form>
-			</div>
+	</div>
           </div>
         </section>
 
