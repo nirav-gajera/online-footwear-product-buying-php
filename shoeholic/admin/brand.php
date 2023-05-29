@@ -13,11 +13,11 @@
                   </div>
                   <div class="card-body">
                     <div class="table-responsive">
-					<div class="dt-buttons btn-group">        
+			<div class="dt-buttons btn-group">        
 					
              
 </div>
-					 <table class="table table-striped table-hover" id="tableExport" style="width:100%;">
+		 <table class="table table-striped table-hover" id="tableExport" style="width:100%;">
                         <a href="brandinsert.php">Add record</a>
 						<thead>
                           <tr>
